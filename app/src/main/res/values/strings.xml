@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HMSAccountKitDemo</string>
+    <string name="desc">Please Sign In!</string>
+    <string name="login_button">Sign In</string>
+    <string name="logout_button">Sign Out</string>
+
+</resources>
